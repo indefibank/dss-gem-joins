@@ -1,9 +1,9 @@
 # Dss GemJoin adapters
-![Build Status](https://github.com/makerdao/dss-gem-joins/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=v1.2)
+![Build Status](https://github.com/indefibank/dss-gem-joins/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=v1.2)
 
-This repository contains a set of different GemJoin adapters to be used with collaterals that need extra functionality or constraints (based on standard [GemJoin](https://github.com/makerdao/dss/blob/master/src/join.sol)).
+This repository contains a set of different GemJoin adapters to be used with collaterals that need extra functionality or constraints (based on standard [GemJoin](https://github.com/indefibank/dss/blob/master/src/join.sol)).
 
-Note: `dss-gem-joins` is not reflective of supported Collateral Types on the mainnet instance of the Maker Protocol.
+Note: `dss-gem-joins` is not reflective of supported Collateral Types on the mainnet instance of the protocol.
 
 | Token | Join Adapter |
 |---------|------|
